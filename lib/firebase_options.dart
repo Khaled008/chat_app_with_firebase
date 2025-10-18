@@ -49,21 +49,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCs74iG7Vy4p1wsURXdjYdWA4SZo6vx9m0',
-    appId: '1:653404813345:android:4484749259d1162b94cb60',
-    messagingSenderId: '653404813345',
-    projectId: 'flutter-chat-b78d2',
-    storageBucket: 'flutter-chat-b78d2.firebasestorage.app',
-  );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD3tjihjrJlJeBhwLkY_s4-LVHJt8Muybw',
-    appId: '1:653404813345:ios:de47154c208538d194cb60',
-    messagingSenderId: '653404813345',
-    projectId: 'flutter-chat-b78d2',
-    storageBucket: 'flutter-chat-b78d2.firebasestorage.app',
-    iosBundleId: 'com.example.chatAppWithFirebase',
-  );
 
 }
